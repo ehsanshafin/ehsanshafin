@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shafin
 - 👀 I’m interested in Physics, Mathematics, Neural Networks, Quantum computing
-- 🌱 I’m currently working as a backend developer .
+- 🌱 I’m currently working as a django developer and a DevOps Engineer.
 - 💞️ I’m looking to collaborate on any open-source projects related to the above mentioned topics.
 
 
